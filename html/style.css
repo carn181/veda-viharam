@@ -1,0 +1,21 @@
+#page {
+    display: flex  
+}
+
+#page > * {
+    text-align: center;
+    flex-grow: 1;
+    width: 50%
+}
+
+img {
+    width: 100%
+}
+
+div {
+    display: inline
+}
+
+h1 {
+    text-align: center
+}

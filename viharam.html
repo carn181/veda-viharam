@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Veda Viharam</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+
+  <body>
+    <div align="center">
+      <h1>Veda Viharam</h1>
+      <br>
+      <h1>വെദവിഹരം</h1>
+    </div>
+    <div>
+      <h2>Select Chapter: </h2>
+      <select name="chapters" id="chapters" onchange='changetext(this.value)'>
+      </select>
+      <p></p> 
+    </div>
+    <div class='h_iframe'>
+      <iframe id='text' src="html/CH1.html"></iframe>
+    </div>
+  </body>
+
+  <script type="text/javascript">
+    let chapterOptions = "";
+    for(let i=1; i<=50 ; i++) chapterOptions += `<option value="${i}">${i}</option>`;
+
+    document.querySelector("select").innerHTML += chapterOptions;
+
+    var e = document.getElementById("chapters");
+    document.querySelector("p").innerHtml += e.value;
+
+    function changetext(n){
+        document.getElementById('text').src="html/CH"+n+".html"
+    }
+    console.log(e.value)
+  </script>
+</html>

@@ -1,0 +1,722 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><title>Bethany Aroma| Malayalam Christian Devotional Songs | Christian Books</title>
+<meta name="Keywords" content="Malayalam Christian Devotional Songs,Christian Books, Sunday school kits" />
+<meta name="Description" content="Bethany Aroma is a christian website which contains malayalam christian devotional songs,books,articles etc." />
+<link href="boilerplate.css" rel="stylesheet" type="text/css">
+<link href="css/general.css" rel="stylesheet" type="text/css">
+<!-- <link href="css/mobile.css" rel="stylesheet" type="text/css">
+
+<link href="css/netbook.css" rel="stylesheet" type="text/css">
+<link href="css/laptop.css" rel="stylesheet" type="text/css"> -->
+<link href="css/desktop.css" rel="stylesheet" type="text/css">
+
+
+<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Archivo+Narrow' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
+
+<!-- poppins -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap" rel="stylesheet">
+
+<!-- 
+To learn more about the conditional comments around the html tags at the top of the file:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="respond.min.js"></script>
+</head>
+<body>
+<div class="gridContainer clearfix">
+  <div id="LayoutDiv1">
+<!--top section-->  
+  <div id="topbannerouter">
+  <div id="topbannerinner">
+  <div id="topouter">
+  <div id="topinner">
+  <style>
+ 
+ #tfheader{
+		background-color:#c3dfef;
+	}
+	#tfnewsearch{
+		float:right;
+ 
+	}
+
+	.tfbutton {
+		margin: 0;
+		padding: 5px 15px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size:14px;
+		outline: none;
+		cursor: pointer;
+		text-align: center;
+		text-decoration: none;
+		color: #ffffff;
+		border: solid 1px #0076a3; border-right:0px;
+		background: #0095cd;
+		background: -webkit-gradient(linear, left top, left bottom, from(#00adee), to(#0078a5));
+		background: -moz-linear-gradient(top,  #00adee,  #0078a5);
+		border-top-right-radius: 5px 5px;
+		border-bottom-right-radius: 5px 5px;
+	}
+	.tfbutton:hover {
+		text-decoration: none;
+		background: #007ead;
+		background: -webkit-gradient(linear, left top, left bottom, from(#0095cc), to(#00678e));
+		background: -moz-linear-gradient(top,  #0095cc,  #00678e);
+	}
+	</style>
+ 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <script src="auto/jquery-1.10.2.js"></script>
+  <script src="auto/jquery-ui.js"></script>
+  <script>
+  $(function() {
+    $( "#textsearch" ).autocomplete({
+      source: 'autocomplete.php'
+    });
+  });
+  </script>
+  <div class="header_body">
+  <div id="topbannerleft"><img src="images/bethany-aroma.png"/></div>
+  <div id="topbannerright">
+	  <div id="tfheader">
+		<form id="tfnewsearch" method="post" action="BethanyAroma_searchsong.php">
+		       
+<input type="hidden" name="language" id="language" value="English" />
+
+<span style="margin-bottom: 4px; display: block; font-size: 13px;">Search Athmeeya Geethangal</span> 
+<div class="search_wrap">
+<div class="ui-widget">
+  <input type="text" class="tftextinput" name="textsearch" id="textsearch" size="21" maxlength="200" placeholder="Enter song/Song No" onclick="this.value=''">
+</div>
+
+<input type="submit" value="search" class="comm_btn">
+</div>	
+</form>
+  <!-- end -->
+	<div class="tfclear"></div>
+	</div>
+	 <!-- end -->
+</div>
+
+</div>
+<!-- header_body -->  
+   </div>
+   </div>
+  </div>
+  </div>
+<!--End top section-->  
+  
+ 
+  
+<!--banner section-->   
+  <div id="banner">
+     
+     <!--menu section--> 
+<div class="navi_container">
+   	  <div class="navi_box">
+		<div class="navi_textout">
+        <div class="navi_text"><meta name="sitelock-site-verification" content="4019" />
+<link rel="stylesheet" href="menu/styles.css" />
+   <script src="menu/script.js"></script>
+
+<div id="cssmenu">
+
+<ul>
+
+         <li><a href="index.php">Home</a> </li>
+
+         
+
+          <li><a href="#">Songs</a> 
+
+          <ul>
+
+           <li><a href="bethanyBethanyAroma_songs.php?songlanguage_id=MQ==">
+
+        Athmeeya Geethangal - Transliterated
+
+        </a></li>
+
+        <li><a href="bethanyBethanyAroma_malayalamsongs.php?songlanguage_id=Mg==">
+
+        Athmeeya Geethangal - in Malayalam font
+
+        </a></li>
+        <li><a href="1931edition.pdf" target="_blank">
+
+       Athmeeya Geethangal - 1931 edition
+
+        </a></li>
+         <li><a href="http://www.bethanyaroma.com/BethanyAroma_booksdetails.php?books_id=NTA=">
+
+      Sangeetha Rathnavali Book
+
+        </a></li>
+        
+        
+<li><a href="assets/pdf/mistakes.pdf" target="_blank">
+
+       Do you truly mean what you sing?
+        </a></li>
+
+        
+
+        </ul>  
+
+          
+
+          </li>
+
+           <li><a href="bethanyBethanyAroma_books.php">Christian books</a>
+
+          
+
+
+
+
+
+</li>
+
+          <li> <a href="bethanyBethanyAroma_biography.php">Biographies</a> </li>
+
+           <li><a href="bethanyaroma_articles.php">Articles</a></li>
+           <li><a href="bethanyaroma_gospeltracts.php">Gospel Tracts</a></li>
+           
+
+           <li><a href="#">Sunday school</a>
+
+<ul>
+
+             <li><a href="bethanyaroma_sundayschoolkits.php?category_id=Mw==">
+
+        Skits
+        </a></li>
+
+         <li><a href="bethanyaroma_sundayschoolkits.php?category_id=Mg==">
+
+        Sunday School Chorus 
+        </a></li>
+
+        
+        </ul>  
+
+</li>
+
+
+
+
+
+           <li><a href="BethanyAroma_innerpage.php?dyid=Mw==">Useful Links</a></li>
+
+           <li><a href="BethanyAroma_contactpage.php?dyid=NA==">Contact Us</a></li>
+
+        
+
+        
+
+</ul>   
+
+        
+
+        <div class="clearfix"></div>
+
+</div></div>
+        </div>
+   	  </div>
+
+    </div>
+
+<!--end menu section-->
+ 
+ <img src="assets/homebanner/sample11.jpg" alt="malayalam christian books, malayalam christian devotional songs" width="100%" />
+    
+  	
+   
+  
+
+  </div>
+  <!--end banner section--> 
+  
+  
+  <div class="pageouterouter">
+  <div class="pageouterinner">
+    <div class="body_flash">
+    <div class="container">
+      
+      <div class="flash" style="padding:10px 0">
+    <marquee behavior="scroll" direction="left" onMouseOver="stop();" onMouseOut="start();" scrolldelay="100">
+   "No one can see the kingdom of God unless they are born again""Whoever believes in Jesus Christ has eternal life; but whoever rejects him will not see eternal life, for God's wrath remains on them" "God so loved the world that he gave his one and only Son, that whosoever believes in him shall not perish but have eternal life""If you declare with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved (Bible)"       
+    </marquee>
+    </div>
+    </div>
+
+   <div class="pageouter">
+   <div id="versespage">
+  <!-- <div id="verses">
+   <img src="images/verse-of-the-day.jpg"/>
+   </div>-->
+   <div id="versescap">
+   
+		 </div>
+   </div>
+   </div>
+   </div>
+   <!-- end maquee -->
+
+
+    <section class="home_about">
+    
+    <div class="container clearfix">
+    <div id="about">
+    <!-- <div id="aboutcap">About Bethany Aroma </div>-->
+     <div id="aboutdes">
+        <div class="about_content_wrap">
+            <div class="img_wrap">
+                <img src="assets/homebanner/about_img.png" alt="">
+
+            </div>
+            <div class="cont_wrap">
+              <h3 class="title" style="text-align: left">About Bethanyaroma</h3>
+            <p style="text-align: justify;">Bethany was a dull place, the village of Simon the leper, dead Lazarus and many sinners. But when Lord Jesus visited that village, it became a place of fragrance. (John 12:1-3; Mark 14:3) God has quickened us who were dead in trespasses &amp; sins (Eph. 2:1), now made a sweet savor (aroma) of Christ.</p>
+
+<p style="text-align: justify;">&ldquo;Now wherever we go, He uses us to tell others about the Lord and spread the Good News like a sweet perfume. Our lives are a fragrance presented by Christ to God. But this fragrance is perceived differently by those being saved and by those perishing. To those who are perishing we are a fearful smell of death and doom. But to those who are being saved we are a life giving perfume.&rdquo; 2 Corinthians 2:14-16 (NLT)</p>
+
+<p style="text-align: justify;">Are you among the saved ones? We thank God, because for you this is a life giving aroma. For un-believers this is a smell of eternal death and doom.</p>
+
+<p style="text-align: justify;">Bethany Aroma, a Brethren publishing house based in Kottayam, publishes Christian literature and music for the Glory of our redeemer Lord Jesus Christ.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+            </div>
+
+        </div>
+       
+      
+      </div>
+   </div>
+    </div>
+      <!-- end container -->
+      </section>
+
+   </div>
+  </div>
+  </div>
+  
+  
+   
+
+<!--start books scroll section-->
+<section class="section_books">
+<div class="btmpageouterouter">
+  <div>
+   <div class="btmpageouter"> 
+   <div id="btmpageouterpage">
+<h3 class="title" style="text-align:center">Available Books<h3>
+    <div behavior="alternate">
+      <ul class="ul_book_list">
+      
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NjE=" style="">
+   <div class="book_img"> <img src="assets/books/parts1.jpg" > </div>
+	<div class="book_title"></div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NjA=" style="">
+   <div class="book_img"> <img src="assets/books/pp cover1.jpg" > </div>
+	<div class="book_title"> Y.Ezekiel</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NTk=" style="">
+   <div class="book_img"> <img src="assets/books/Cover1.jpg" > </div>
+	<div class="book_title">K G Kurian   </div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NTg=" style="">
+   <div class="book_img"> <img src="assets/books/sncCover1.jpg" > </div>
+	<div class="book_title">K G Kurian   </div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NTc=" style="">
+   <div class="book_img"> <img src="assets/books/cover1.jpg" > </div>
+	<div class="book_title"> Y.Ezekiel</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NTU=" style="">
+   <div class="book_img"> <img src="assets/books/kvcover155.jpg" > </div>
+	<div class="book_title">K G Kurian   </div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NTM=" style="">
+   <div class="book_img"> <img src="assets/books/ss cover153.jpg" > </div>
+	<div class="book_title">Dr.T A Kurien</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NTI=" style="">
+   <div class="book_img"> <img src="assets/books/rbcover252.jpg" > </div>
+	<div class="book_title"> Y.Ezekiel</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NTE=" style="">
+   <div class="book_img"> <img src="assets/books/plaincove351.jpg" > </div>
+	<div class="book_title">K. A Philip, Mylapra</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NTA=" style="">
+   <div class="book_img"> <img src="assets/books/cover5050.jpg" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NDk=" style="">
+   <div class="book_img"> <img src="assets/books/ac.cover1.jpg" > </div>
+	<div class="book_title"> Y.Ezekiel</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NDg=" style="">
+   <div class="book_img"> <img src="assets/books/cover48.jpg" > </div>
+	<div class="book_title"> Y.Ezekiel</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NDc=" style="">
+   <div class="book_img"> <img src="assets/books/cover47.jpg" > </div>
+	<div class="book_title">V.P Jacob</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NDY=" style="">
+   <div class="book_img"> <img src="assets/books/cover146.png" > </div>
+	<div class="book_title">V.P Jacob</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NDU=" style="">
+   <div class="book_img"> <img src="assets/books/SAHA1.jpg" > </div>
+	<div class="book_title"> Y.Ezekiel</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NDQ=" style="">
+   <div class="book_img"> <img src="assets/books/kbcover444.jpg" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NDM=" style="">
+   <div class="book_img"> <img src="assets/books/cover343.jpg" > </div>
+	<div class="book_title"> Y.Ezekiel</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NDI=" style="">
+   <div class="book_img"> <img src="assets/books/INTRO42.jpg" > </div>
+	<div class="book_title"> Y.Ezekiel</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NDE=" style="">
+   <div class="book_img"> <img src="assets/books/songofsongs1.jpg" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NDA=" style="">
+   <div class="book_img"> <img src="assets/books/the_tabernacle40.jpg" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=Mzk=" style="">
+   <div class="book_img"> <img src="assets/books/chorinthians39.png" > </div>
+	<div class="book_title">K G Kurian   </div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=Mzc=" style="">
+   <div class="book_img"> <img src="assets/books/rakshakanayakristu37.png" > </div>
+	<div class="book_title">K G Kurian   </div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MzY=" style="">
+   <div class="book_img"> <img src="assets/books/karagrahalekhanangal36.png" > </div>
+	<div class="book_title">K G Kurian   </div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MzU=" style="">
+   <div class="book_img"> <img src="assets/books/thiranjedutha_lekhanangal35.jpg" > </div>
+	<div class="book_title">KG Thomas</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MzQ=" style="">
+   <div class="book_img"> <img src="assets/books/romalekhanavyakhyanam34.png" > </div>
+	<div class="book_title">M K Chacko</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MzM=" style="">
+   <div class="book_img"> <img src="assets/books/aathmaniravum3333.jpg" > </div>
+	<div class="book_title"> M M Zachariah</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MzI=" style="">
+   <div class="book_img"> <img src="assets/books/yohannantesuvisheshavyakhyanam32.png" > </div>
+	<div class="book_title">K G Kurian   </div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MzE=" style="">
+   <div class="book_img"> <img src="assets/books/bibleprasnavali31.png" > </div>
+	<div class="book_title"> Y.Ezekiel</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MzA=" style="">
+   <div class="book_img"> <img src="assets/books/christian_baptism30.png" > </div>
+	<div class="book_title"> V.Nagel</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=Mjk=" style="">
+   <div class="book_img"> <img src="assets/books/israyelum_lokarashtrangalum29.png" > </div>
+	<div class="book_title">KG Thomas</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=Mjc=" style="">
+   <div class="book_img"> <img src="assets/books/ganachandrika27.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MjY=" style="">
+   <div class="book_img"> <img src="assets/books/sangeetharath26.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MjU=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_0325.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MjQ=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_0624.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MjM=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_6023.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MjI=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_1422.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MjE=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_5321.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MjA=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_5820.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MTk=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_1119.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MTg=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_191818.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MTc=" style="">
+   <div class="book_img"> <img src="assets/books/sathyaprakasini17.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MTY=" style="">
+   <div class="book_img"> <img src="assets/books/vedagranda16.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MTU=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_211.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MTQ=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_501.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MTM=" style="">
+   <div class="book_img"> <img src="assets/books/nikolavya13.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MTI=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_291.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MTE=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_261.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MTA=" style="">
+   <div class="book_img"> <img src="assets/books/all-books_371.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=OQ==" style="">
+   <div class="book_img"> <img src="assets/books/thrithwaprabodhika9.jpg" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=OA==" style="">
+   <div class="book_img"> <img src="assets/books/all-books_451.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=Nw==" style="">
+   <div class="book_img"> <img src="assets/books/uthamageetham7.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=Ng==" style="">
+   <div class="book_img"> <img src="assets/books/all-books_421.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=NQ==" style="">
+   <div class="book_img"> <img src="assets/books/verpad5.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+        <li>
+<a href="BethanyAroma_booksdetails.php?books_id=MQ==" style="">
+   <div class="book_img"> <img src="assets/books/vedaviharam1.png" > </div>
+	<div class="book_title">K V Simon</div> </a>
+    </li>
+       </ul>
+     </div>
+   </div>
+   </div></div></div> 
+
+</section>
+<!--end books scroll section-->  
+
+
+
+
+
+
+
+<!--start footer section-->    
+  
+  <div class="footerpageouterouter">
+  <div class="footerpageouterinner">
+   <div class="footerpageouter"> 
+   <div id="footerpageouterpage">
+   
+   <div id="footercol1">
+   <div class="footer_title">SONGS</div>
+   <div id="footercol1con">
+         <ul class="list_footer">
+            <li> 
+               <a href="bethanyBethanyAroma_songs.php?songlanguage_id=MQ==">
+       Athmeeya Geethangal - Transliterated
+        </a></li>
+            <li>
+               <a href="bethanyBethanyAroma_malayalamsongs.php?songlanguage_id=Mg==">
+       Athmeeya Geethangal - in Malayalam font
+        </a></li>
+            <li> 
+               <a href="1931edition.pdf">
+       Athmeeya Geethangal - 1931 edition
+        </a> </li>
+            <li>
+               <a href="bethanyaroma_sundayschoolkits.php?category_id=Mg==">
+      Sunday School Choruses - English
+        </a></li>
+         </ul>
+ 
+
+ 
+        
+       
+
+</div>
+   </div>
+   <div id="footercol2">
+   <div class="footer_title">CHRISTIAN BOOKS BY</div>
+   <div id="footercol2con">
+   <ul class="list_footer cpt">
+         <li><a href="BethanyAroma_bookauthor.php?aid=MQ==" class="footerlinks">K V Simon</a></li>
+         <li><a href="BethanyAroma_bookauthor.php?aid=Mg==" class="footerlinks">Y.Ezekiel</a></li>
+ <li> <a href="BethanyAroma_bookauthor.php?aid=Mw==" class="footerlinks">V.Nagel</a></li>
+ <li> <a href="BethanyAroma_biographydetails.php?biography_id=MQ==" class="footerlinks">Dr.T A Kurien</a></li>
+ <li> <a href="BethanyAroma_bookauthor.php?aid=NQ==" class="footerlinks">KG Thomas</a></li>
+ <li><a href="BethanyAroma_bookauthor.php?aid=Ng==" class="footerlinks">M M Zachariah</a></li>
+ <li><a href="BethanyAroma_bookauthor.php?aid=Nw==" class="footerlinks">K G Kurian</a></li>
+ <li><a href="BethanyAroma_bookauthor.php?aid=OA==" class="footerlinks">M K Chacko</a></li>
+ <li><a href="BethanyAroma_biographydetails.php?biography_id=Mg==" class="footerlinks">K M Varghese</a></li>
+
+      </ul>
+    
+ 
+    
+   </div>
+   </div>
+   <div id="footercol3">
+   <div class="footer_title">QUICK LINKS</div>
+   <div id="footercol3con">
+   <ul class="list_footer cpt">
+      <li><a href="bethanyaroma_articles.php" class="footerlinks">Articles</a></li>
+      <li><a href="bethanyBethanyAroma_books.php?Language=English" class="footerlinks">English Books</a></li>
+      <li><a href="bethanyBethanyAroma_books.php?Language=Malayalam" class="footerlinks">Malayalam Books</a></li>
+      <li><a href="BethanyAroma_innerpage.php?dyid=NA==" class="footerlinks">Contact Us</a></li>
+      <li><a href="bethanyBethanyAroma_biography.php" class="footerlinks">Biographies</a></li>
+      <li><a href="bethanyaroma_gospeltracts.php" class="footerlinks">Gospel Tracts</a></li>
+      <li><a href="bethanyaroma_sundayschoolkits.php?category_id=Mw==" class="footerlinks">Sunday School Skits</a></li>
+      </ul>
+   
+      
+   
+</div>
+   </div>
+   
+   
+    <div id="footercol2">
+   <div class="footer_title">QUICK CONTACT</div>
+   <div id="footercol2con">
+   <p><span style="color:rgb(255, 255, 0)">info.bethanyaroma@gmail.com</span></p>
+</div>
+    
+   </div>
+   
+   </div>   </div></div></div>
+  
+  <!--end footer section--> 
+  
+  <!--start btmfooter section-->    
+  
+  <div class="btmfooterpageouterouter">
+  <div class="btmfooterpageouterinner">
+   <div class="btmfooterpageouter"> 
+   <div id="btmfooterpageouterpage">
+  29061370 Hits &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Powered by <a href="https://www.revivaliq.com/" target="_blank">Revival IQ </a>&nbsp;&nbsp;&nbsp;&nbsp;   </div></div></div></div>
+  
+  <!--end footer section--> 
+  </div>
+</div>
+</body>
+</html>

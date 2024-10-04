@@ -1,0 +1,28 @@
+*{
+    font-family: 'Manrope', sans-serif;
+    background-color: #FFECB3;
+}
+html,body{
+    height:100%;
+}
+body{
+    margin:0;
+}
+.h_iframe iframe{
+    position:absolute;
+    top:40%;
+    left:0;
+    width:100%;
+    height:100%;
+}
+#titlepage{
+    text-align:center;
+    flex-direction:column;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100%;
+}
+#title{
+    font-size: xxx-large;
+}
